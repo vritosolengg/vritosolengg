@@ -48,3 +48,29 @@ body {
 .img-certificate {
   background: #a7a9ac6a;
 }
+
+.justify {
+  text-align: justify;
+}
+
+.banner {
+  height: 1.5rem;
+  background-color: rgba(0, 0, 0, 0.700);
+}
+
+.banner-link {
+  text-decoration: none;
+  color: white;
+}
+
+.banner-link:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.aboutus-fa {
+  border-radius: 5px;
+  background-color: #a7a9ac;
+  padding: 2px;
+  color: white;
+}
