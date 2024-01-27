@@ -20,3 +20,11 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.navbar {
+  box-shadow:0 2px 4px 0 rgba(0,0,0,.2)
+}
+
+.footer-iso {
+  font-size: small;
+}
