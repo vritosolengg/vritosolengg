@@ -28,3 +28,23 @@ body {
 .footer-iso {
   font-size: small;
 }
+
+.p-none {
+  padding: unset;
+}
+
+.bottom-line {
+  width: 60%;
+  background: #a7a9ac;
+  height: 3px;
+  margin-bottom: 10px;
+}
+
+.img-icon {
+  border: 1px solid #a7a9ac;
+  border-radius: 50%;
+}
+
+.img-certificate {
+  background: #a7a9ac6a;
+}
