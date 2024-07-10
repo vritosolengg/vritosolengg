@@ -92,25 +92,21 @@
 
     // Testimonials carousel
     $(".testimonial-carousel").owlCarousel({
-        items: 8,
         autoplay: false,
-        // smartSpeed: 3000,
+        smartSpeed: 1000,
         center: true,
         dots: true,
-        // loop: true,
-        startPosition: 1,
-        rewind: true,
-        touchDrag: true,
+        loop: true,
         responsive: {
-            // 0:{
-            //     items:1
-            // },
-            // 768:{
-            //     items:2
-            // },
-            // 992:{
-            //     items:3
-            // }
+            0:{
+                items:1
+            },
+            768:{
+                items:2
+            },
+            992:{
+                items:3
+            }
         }
     });
     
