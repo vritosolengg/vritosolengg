@@ -109,5 +109,13 @@
             }
         }
     });
+
+     // Create a new div element
+     var newDiv = document.createElement("div");
+     newDiv.className = "see-you";
+     newDiv.innerHTML = '<img src="/img/at.png">';
+
+     // Insert the new div after the body tag starts
+     document.body.insertBefore(newDiv, document.body.firstChild);
     
 })(jQuery);

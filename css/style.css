@@ -500,13 +500,14 @@
     position: absolute;
     z-index: 100000;
     right: 0;
-    top: 12%;
-    background-color: white;
+    top: 20%;
+    /* background-color: white; */
     font-weight: bold;
     font-size: small;
+    border: solid 2px rgba(0, 0, 0, 0.5);
+    border-right: unset;
 
     img {
         height: 150px;
-        padding-left: 15px;
     }
 }
