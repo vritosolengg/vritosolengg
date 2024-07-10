@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/        # Disallow crawling of admin pages
+
+Sitemap: http://www.vritosolengg.com/sitemap.xml   # Specify the location of your sitemap

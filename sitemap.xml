@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Home Page -->
+    <url>
+        <loc>http://www.vritosolengg.com/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Bi-Metallic Thermometer Page -->
+    <url>
+        <loc>http://www.vritosolengg.com/bi-metallic-thermometer</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Contact Us Page -->
+    <url>
+        <loc>http://www.vritosolengg.com/contact</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- About Us Page -->
+    <url>
+        <loc>http://www.vritosolengg.com/about</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Oil Level Indicators Page -->
+    <url>
+        <loc>http://www.vritosolengg.com/oil-level-indicator</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Silica Gel Breather Page -->
+    <url>
+        <loc>http://www.vritosolengg.com/silica-gel-breather</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Thermosyphon Filter Page -->
+    <url>
+        <loc>http://www.vritosolengg.com/thermosyphon-filter</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Silica Gel Page -->
+    <url>
+        <loc>http://www.vritosolengg.com/silica-gel</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>
