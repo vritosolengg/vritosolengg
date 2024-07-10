@@ -495,3 +495,18 @@
 .jump-shake-hover:hover {
     animation: jump-shaking 0.25s infinite;
 }
+
+.see-you {
+    position: absolute;
+    z-index: 100000;
+    right: 0;
+    top: 12%;
+    background-color: white;
+    font-weight: bold;
+    font-size: small;
+
+    img {
+        height: 150px;
+        padding-left: 15px;
+    }
+}
