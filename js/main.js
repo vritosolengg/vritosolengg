@@ -143,6 +143,14 @@ function submitForm() {
 
     fetch("https://mini-coders.com/api/leads/vritosolengg", requestOptions)
     .then((response) => response.text())
-    .then((result) => console.log(result))
+    .then((result) => {
+        console.log(result);
+        $('#submissionModal').modal('show');
+        $('#myForm')[0].reset();
+    })
     .catch((error) => console.error(error));
+};
+
+function closeModel(){
+    $('#submissionModal').modal('hide');
 };
