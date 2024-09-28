@@ -141,7 +141,7 @@ function submitForm() {
     // mode: 'cors'
     };
 
-    fetch("https://mini-coders.com/api/leads/vritosolengg", requestOptions)
+    fetch("https://api.mini-coders.com/node/leads/vritosolengg", requestOptions)
     .then((response) => response.text())
     .then((result) => {
         console.log(result);
