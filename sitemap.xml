@@ -57,4 +57,11 @@
         <priority>0.8</priority>
     </url>
 
+    <!-- Magnetic Oil Guage Page -->
+    <url>
+        <loc>https://www.vritosolengg.com/magnetic-oil-guage</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
 </urlset>
