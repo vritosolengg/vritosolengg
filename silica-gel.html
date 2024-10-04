@@ -97,7 +97,7 @@
         <a href="/" class="navbar-brand bg-primary d-flex align-items-center px-4 px-lg-5">
         </a>
         <!-- <h2 class="mb-2 text-white">Logistica</h2> -->
-        <div>
+        <div onclick="window.location.href='/';" style="cursor: pointer;">
             <img class="website-logo" src="./img/logo-transparent.png" />
             <div class="d-flex justify-content-center" style="font-size: 10px;font-weight:bold;color:#bf1e2e">
                 (An ISO 9001:2015 Certified Company)
@@ -112,14 +112,12 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Products</a>
                     <div class="dropdown-menu fade-up m-0">
-                        <a href="/bi-metallic-thermometer" class="dropdown-item">Bi-Metallic Thermometer</a>
-                        <a href="/oil-level-indicator" class="dropdown-item">Oil Level Indicator</a>
-                        <!-- <a href="/magnetic-oil-guage" class="dropdown-item">Magnetic Oil Guage</a> -->
-                        <!-- <a href="/prismatic-oil-level-guage" class="dropdown-item">Prismatic Oil Level Guage</a> -->
                         <a href="/silica-gel-breather" class="dropdown-item">Silica Gel Breather</a>
+                        <a href="/magnetic-oil-guage" class="dropdown-item">Magnetic Oil Gauge</a>
+                        <a href="/oil-level-indicator" class="dropdown-item">Oil Level Indicator</a>
+                        <a href="/bi-metallic-thermometer" class="dropdown-item">Bi-Metallic Thermometer</a>
                         <a href="/thermosyphon-filter" class="dropdown-item">Thermosyphon Filter</a>
                         <a href="/silica-gel" class="dropdown-item active">Silica Gel</a>
-                        <a href="/magnetic-oil-level-indicator" class="dropdown-item">Magnetic Oil Level Indicator</a>
                     </div>
                 </div>
                 <a href="about" class="nav-item nav-link">About</a>
@@ -330,55 +328,60 @@
                 <h1 class="mb-5">Explore Other Products</h1>
             </div>
             <div class="row g-4">
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item p-4">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item p-4" onclick="window.location.href='/silica-gel-breather';" style="cursor: pointer;">
                         <div class="overflow-hidden mb-4">
-                            <img class="img-fluid" src="img/products/product_5.png" alt="">
+                            <img class="img-fluid" src="img/products/product_4_1.png" alt="">
                         </div>
-                        <h4 class="mb-3">Bi-Metallic Thermometer</h4>
-                        <!-- <p>Precision Oil Level Indicator for Accurate Transformer Monitoring.</p> -->
-                        <a class="btn-slide mt-2" href="/bi-metallic-thermometer"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
+                        <h4 class="mb-3">Silica Gel Breather</h4>
+                        <a class="btn-slide mt-2" href="/silica-gel-breather"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item p-4">
+                    <div class="service-item p-4" onclick="window.location.href='/magnetic-oil-guage';" style="cursor: pointer;">
+                        <div class="overflow-hidden mb-4">
+                            <img class="img-fluid" src="img/products/product_14.png" alt="">
+                        </div>
+                        <h4 class="mb-3">Magnetic Oil Gauge</h4>
+                        <a class="btn-slide mt-2" href="/magnetic-oil-guage"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item p-4" onclick="window.location.href='/oil-level-indicator';" style="cursor: pointer;">
                         <div class="overflow-hidden mb-4">
                             <img class="img-fluid" src="img/products/product_6.png" alt="">
                         </div>
                         <h4 class="mb-3">Oil Level Indicator</h4>
-                        <!-- <p>Precision Oil Level Indicator for Accurate Transformer Monitoring.</p> -->
                         <a class="btn-slide mt-2" href="/oil-level-indicator"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="service-item p-4">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item p-4" onclick="window.location.href='/bi-metallic-thermometer';" style="cursor: pointer;">
                         <div class="overflow-hidden mb-4">
-                            <img class="img-fluid" src="img/products/product_7.png" alt="">
+                            <img class="img-fluid" src="img/products/product_5.png" alt="">
                         </div>
-                        <h4 class="mb-3">Silica Gel Breather</h4>
-                        <!-- <p>High-Performance Silica Gel Breather for Optimal Transformer Moisture Control.</p> -->
-                        <a class="btn-slide mt-2" href="/silica-gel-breather"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
+                        <h4 class="mb-3">Bi-Metallic Thermometer</h4>
+                        <a class="btn-slide mt-2" href="/bi-metallic-thermometer"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item p-4">
+                    <div class="service-item p-4" onclick="window.location.href='/thermosyphon-filter';" style="cursor: pointer;">
                         <div class="overflow-hidden mb-4">
                             <img class="img-fluid" src="img/products/product_8.png" alt="">
                         </div>
                         <h4 class="mb-3">Thermosyphon Filter</h4>
-                        <!-- <p>High-Performance Silica Gel Breather for Optimal Transformer Moisture Control.</p> -->
                         <a class="btn-slide mt-2" href="/thermosyphon-filter"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item p-4">
+                <!-- <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item p-4" onclick="window.location.href='/silica-gel';" style="cursor: pointer;">
                         <div class="overflow-hidden mb-4">
-                            <img class="img-fluid" src="img/products/product_14.png" alt="">
+                            <img class="img-fluid" src="img/products/product_13.png" alt="">
                         </div>
-                        <h4 class="mb-3">Magnetic Oil Level Indicator</h4>
-                        <a class="btn-slide mt-2" href="/magnetic-oil-level-indicator"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
+                        <h4 class="mb-3">Silica Gel</h4>
+                        <a class="btn-slide mt-2" href="/silica-gel"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -469,13 +472,12 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Products</h4>
-                    <a class="btn btn-link" href="/oil-level-indicator">Oil level indicator</a>
-                    <!-- <a class="btn btn-link" href="">Magnetic oil guage</a> -->
-                    <!-- <a class="btn btn-link" href="">Prismatic oil level guage</a> -->
                     <a class="btn btn-link" href="/silica-gel-breather">Silica Gel Breather</a>
+                    <a class="btn btn-link" href="/magnetic-oil-guage">Magnetic Oil Gauge</a>
+                    <a class="btn btn-link" href="/oil-level-indicator">Oil Level Indicator</a>
+                    <a class="btn btn-link" href="/bi-metallic-thermometer">Bi-Metallic Thermometer</a>
                     <a class="btn btn-link" href="/thermosyphon-filter">Thermosyphon Filter</a>
                     <a class="btn btn-link" href="/silica-gel">Silica Gel</a>
-                    <a class="btn btn-link" href="/magnetic-oil-level-indicator">Magnetic Oil Level Indicator</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Quick Links</h4>

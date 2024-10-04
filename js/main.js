@@ -116,7 +116,7 @@
      newDiv.innerHTML = '<img src="/img/at.png">';
 
      // Insert the new div after the body tag starts
-     document.body.insertBefore(newDiv, document.body.firstChild);
+    //  document.body.insertBefore(newDiv, document.body.firstChild);
     
 })(jQuery);
 

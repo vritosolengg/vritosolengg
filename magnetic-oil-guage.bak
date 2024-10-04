@@ -3,21 +3,10 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Magnetic Oil Level Indicator - Vritosol Engineering Pvt. Ltd.</title>
+    <title>Vritosol Engineering Pvt. Ltd.</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta name="keywords" content="Oil Level Gauge, Oil Indicators, Oil Level Gage, Oil Level Indicator, Oil Gage, manufacturers, suppliers, exporters, traders, dealers, manufacturing companies, retailers, producers, Measurement Gauges & Gauge Fittings India, Vritosol Engineering" />
-    <meta name="description" content="Discover Vritosol Engineering Pvt. Ltd.'s oil level indicator, providing clear visual indication of oil levels in tanks. Each indicator undergoes rigorous testing for accuracy and efficiency, ensuring high precision and quality." />
-    <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="https://vritosolengg.com" />
-    <meta property="og:title" content="Magnetic Oil Level Indicator - Vritosol Engineering Pvt. Ltd." />
-    <meta property="og:site_name" content="Vritosol Engineering Pvt. Ltd." />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://vritosolengg.com/magnetic-oil-level-indicator" />
-    <meta property="og:description" content="Discover Vritosol Engineering Pvt. Ltd.'s oil level indicator, providing clear visual indication of oil levels in tanks. Each indicator undergoes rigorous testing for accuracy and efficiency, ensuring high precision and quality." />
-    <meta property="og:image" content="https://vritosolengg.com/img/products/product_14.png" />
-    <meta property="og:image:url" content="https://vritosolengg.com/img/products/product_14.png" />
-    <meta property="og:image:width" content="250" />
-    <meta property="og:image:height" content="250" />
+    <meta content="" name="keywords">
+    <meta content="" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -40,46 +29,6 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
-
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VD35JLFFYW"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-VD35JLFFYW');
-    </script>
-
-    <!-- Meta Pixel Code -->
-    <script>
-        !function(f,b,e,v,n,t,s)
-        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-        n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t,s)}(window, document,'script',
-        'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '809170834649685');
-        fbq('track', 'PageView');
-    </script>
-    <noscript><img height="1" width="1" style="display:none"
-    src="https://www.facebook.com/tr?id=809170834649685&ev=PageView&noscript=1"
-    /></noscript>
-    <!-- End Meta Pixel Code -->
-
-    <!-- Hotjar Tracking Code for Site 5058307 (name missing) -->
-    <script>
-        (function(h,o,t,j,a,r){
-            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-            h._hjSettings={hjid:5058307,hjsv:6};
-            a=o.getElementsByTagName('head')[0];
-            r=o.createElement('script');r.async=1;
-            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-            a.appendChild(r);
-        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-    </script>
 </head>
 
 <body>
@@ -114,12 +63,9 @@
                     <div class="dropdown-menu fade-up m-0">
                         <a href="/bi-metallic-thermometer" class="dropdown-item">Bi-Metallic Thermometer</a>
                         <a href="/oil-level-indicator" class="dropdown-item">Oil Level Indicator</a>
-                        <!-- <a href="/magnetic-oil-guage" class="dropdown-item">Magnetic Oil Guage</a> -->
+                        <!-- <a href="/magnetic-oil-guage" class="dropdown-item active">Magnetic Oil Guage</a> -->
                         <!-- <a href="/prismatic-oil-level-guage" class="dropdown-item">Prismatic Oil Level Guage</a> -->
                         <a href="/silica-gel-breather" class="dropdown-item">Silica Gel Breather</a>
-                        <a href="/thermosyphon-filter" class="dropdown-item">Thermosyphon Filter</a>
-                        <a href="/silica-gel" class="dropdown-item">Silica Gel</a>
-                        <a href="/magnetic-oil-level-indicator" class="dropdown-item active">Magnetic Oil Level Indicator</a>
                     </div>
                 </div>
                 <a href="about" class="nav-item nav-link">About</a>
@@ -148,12 +94,12 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5" style="margin-bottom: 6rem;">
         <div class="container py-5">
-            <h1 class="display-3 text-white mb-3 animated slideInDown">Magnetic Oil Level Indicator</h1>
+            <h1 class="display-3 text-white mb-3 animated slideInDown">Magnetic Oil Guage</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
                     <li class="breadcrumb-item"><a class="text-white" href="#">Products</a></li>
-                    <li class="breadcrumb-item text-white active" aria-current="page">Magnetic Oil Level Indicator</li>
+                    <li class="breadcrumb-item text-white active" aria-current="page">Magnetic Oil Guage</li>
                 </ol>
             </nav>
         </div>
@@ -163,73 +109,16 @@
 
     <!-- About Start -->
     <div class="container-fluid overflow-hidden py-5 px-lg-0">
-        <div class="container about py-5 px-lg-5 justify-content-center ">
+        <div class="container about py-5 px-lg-5 justify-content-center">
             <div class="row g-5 mx-lg-0 justify-content-center">
                 <div class="col-lg-3 ps-lg-0 wow fadeInLeft" data-wow-delay="0.1s" style="min-height: 400px;">
-                    <div class="position-relative h-100 d-flex flex-column gap-4">
-                        <div class="col position-relative">
-                            <b>Model: KSS-A</b></br>
-                            <img class="position-absolute img-fluid h-100 text-end" src="img/products/product_17.png" style="object-fit: cover;border: solid 4px black; height: 290px !important; width: 400px !important; border-radius: 25px;" alt="">
-                        </div>
-                        <div class="col position-relative">
-                            <b>Model: KSS-B</b></br>
-                            <img class="position-absolute img-fluid h-100 text-end" src="img/products/product_18.png" style="object-fit: cover;border: solid 4px black; height: 290px !important; width: 400px !important; border-radius: 25px;" alt="">
-                        </div>
-                        <div class="col position-relative">
-                            <b>Model: KSS-F</b></br>
-                            <img class="position-absolute img-fluid h-100 text-end" src="img/products/product_15.png" style="object-fit: cover;border: solid 4px black; height: 290px !important; width: 400px !important; border-radius: 25px;" alt="">
-                        </div>
-                        <div class="col position-relative">
-                            <b>Model: KSS-E</b></br>
-                            <img class="position-absolute img-fluid h-100 text-end" src="img/products/product_16.png" style="object-fit: cover;border: solid 4px black; height: 290px !important; width: 400px !important; border-radius: 25px;" alt="">
-                        </div>
+                    <div class="position-relative h-100">
+                        <img class="position-absolute img-fluid h-100 text-end" src="img/products/product_2.png" style="object-fit: cover;" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 about-text wow fadeInUp" data-wow-delay="0.3s">
-                    <h1 class="mb-5">Magnetic Oil Level Indicator</h1>
-                    <p class="text-justify">
-                        <b>Features:</b></br></br>
-                        A Magnetic Oil Level Indicators/Gauges (MOG) measures the level of oil in a tank of transformer.Form-A Oil Level Indicators are used in Power Transformers less than 5000 KVA.
-                        <ul>
-                            <li>
-                                Indicator part is insulated with transformer oil.
-                            </li>
-                            <li>
-                                It does not allow oil leakage at temperatures of 110 °C, 0.5 bar effective pressure and vacuum.
-                            </li>
-                            <li>
-                                Made of corrosion resistance material for long life and high accuracy performance.
-                            </li>
-                        </ul>
-                        </br></br>
-                        <b>Construction:</b></br></br>
-                        All components are surface treated or made of corrosion resistant material.
-                        </br></br>
-                        <ul>
-                            <li>
-                                <b>Body:</b> Pressure die casted aluminium, electrostatic powder painted to RAL-7033.
-                            </li>
-                            <li>
-                                <b>Indicator Dial:</b> Aluminium sheet metal, white painted and black printing.
-                            </li>
-                            <li>
-                                <b>Pointer:</b> Brass sheet metal, electrostatic powder painted to yellow colour.
-                            </li>
-                            <li>
-                                <b>Indicator Glass:</b> Polycarbonate Transparent (UV resistant).
-                            </li>
-                            <li>
-                                <b>Mtg. Gasket:</b> NBR, Hardness 70 Shore-A.
-                            </li>
-                            <li>
-                                <b>Float:</b> Nytrophyl, closed cellular type foam.
-                            </li>
-                        </ul>
-                        </br></br>
-                        <b>Working:</b></br></br>
-                        The radial movement of the float is transmitted to the pointer magnetically.At one end the magnet is connected to the float-lever mechanism which drivesthe polarized indicator magnet connected to the pointer on the other end.
-                    </p>
-                    </br></br></br></br>
+                    <h1 class="mb-5">Magnetic Oil Guage</h1>
+                    <p class="mb-5">Our Magnetic Oil Gauge is a cutting-edge device designed to deliver precise and reliable monitoring of transformer oil levels. Utilizing advanced magnetic technology, this gauge provides accurate readings, ensuring optimal performance and longevity of your transformers. The robust construction of our Magnetic Oil Gauge guarantees durability even in the most demanding environments, offering consistent performance and reducing the risk of unexpected maintenance. Easy to install and operate, this gauge enhances the efficiency of your power distribution system by providing critical data for proactive maintenance. By choosing our Magnetic Oil Gauge, you invest in superior quality and innovation, ensuring the protection and reliability of your transformers. Experience the peace of mind that comes with using a trusted solution for your transformer oil monitoring needs.</p>
                     <a href="" class="btn btn-primary py-3 px-5">
                         <div class="d-flex align-items-center gap-4">
                             <div>
@@ -241,9 +130,6 @@
                             </div>
                         </div>
                     </a>
-                    </br></br></br></br>
-                    </br></br></br></br>
-                    </br></br></br></br>
                 </div>
             </div>
         </div>
@@ -274,10 +160,31 @@
                             <img class="img-fluid" src="img/products/product_6.png" alt="">
                         </div>
                         <h4 class="mb-3">Oil Level Indicator</h4>
+                        <!-- <p>Precision Oil Level Indicator for Accurate Transformer Monitoring.</p> -->
                         <a class="btn-slide mt-2" href="/oil-level-indicator"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                <!-- <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item p-4">
+                        <div class="overflow-hidden mb-4">
+                            <img class="img-fluid" src="img/products/product_2.png" alt="">
+                        </div>
+                        <h4 class="mb-3">Magnetic Oil Guage</h4>
+                        <p>Reliable Magnetic Oil Gauge for Precise Transformer Fluid Monitoring.</p>
+                        <a class="btn-slide mt-2" href=""><i class="fa fa-arrow-right"></i><span>Read More</span></a>
+                    </div>
+                </div> -->
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="service-item p-4">
+                        <div class="overflow-hidden mb-4">
+                            <img class="img-fluid" src="img/products/product_3.png" alt="">
+                        </div>
+                        <h4 class="mb-3">Prismatic Oil Level Guage</h4>
+                        <!-- <p>Durable Prismatic Oil Level Gauge for Clear Transformer Fluid Measurement.</p> -->
+                        <a class="btn-slide mt-2" href="/prismatic-oil-level-guage"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item p-4">
                         <div class="overflow-hidden mb-4">
                             <img class="img-fluid" src="img/products/product_7.png" alt="">
@@ -287,27 +194,6 @@
                         <a class="btn-slide mt-2" href="/silica-gel-breather"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="service-item p-4">
-                        <div class="overflow-hidden mb-4">
-                            <img class="img-fluid" src="img/products/product_8.png" alt="">
-                        </div>
-                        <h4 class="mb-3">Thermosyphon Filter</h4>
-                        <!-- <p>High-Performance Silica Gel Breather for Optimal Transformer Moisture Control.</p> -->
-                        <a class="btn-slide mt-2" href="/thermosyphon-filter"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item p-4">
-                        <div class="overflow-hidden mb-4">
-                            <img class="img-fluid" src="img/products/product_13.png" alt="">
-                        </div>
-                        <h4 class="mb-3">Silica Gel</h4>
-                        <!-- <p>High-Performance Silica Gel Breather for Optimal Transformer Moisture Control.</p> -->
-                        <a class="btn-slide mt-2" href="/silica-gel"><i class="fa fa-arrow-right"></i><span>Read More</span></a>
-                    </div>
-                </div>
-                
             </div>
         </div>
     </div>
@@ -398,19 +284,16 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Products</h4>
-                    <a class="btn btn-link" href="/bi-metallic-thermometer">Bi-Metallic Thermometer</a>
-                    <a class="btn btn-link" href="/oil-level-indicator">Oil Level Indicator</a>
-                    <a class="btn btn-link" href="/silica-gel-breather">Silica Gel Breather</a>
-                    <a class="btn btn-link" href="/thermosyphon-filter">Thermosyphon Filter</a>
-                    <a class="btn btn-link" href="/silica-gel">Silica Gel</a>
-                    <a class="btn btn-link" href="/magnetic-oil-level-indicator">Magnetic Oil Level Indicator</a>
+                    <a class="btn btn-link" href="">Oil level indicator</a>
+                    <a class="btn btn-link" href="">Magnetic oil guage</a>
+                    <a class="btn btn-link" href="">Prismatic oil level guage</a>
+                    <a class="btn btn-link" href="">Silica Gel Breather</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Quick Links</h4>
-                    <a class="btn btn-link" href="/">Home</a>
-                    <a class="btn btn-link" href="/about">About Us</a>
-                    <a class="btn btn-link" href="/contact">Contact Us</a>
-                    <!-- <a class="btn btn-link" href="/service">Our Products</a> -->
+                    <a class="btn btn-link" href="">About Us</a>
+                    <a class="btn btn-link" href="">Contact Us</a>
+                    <a class="btn btn-link" href="">Our Products</a>
                     <a class="btn btn-link" href="">Terms & Condition</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
