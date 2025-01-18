@@ -511,3 +511,35 @@
         height: 150px;
     }
 }
+
+.moving-carousel {
+    overflow: hidden;
+    position: relative;
+    white-space: nowrap;
+}
+
+.carousel-track {
+    display: inline-flex;
+    animation: scroll-left 20s linear infinite;
+}
+
+.carousel-track img {
+    margin: 0 10px;
+    width: auto;
+    height: 150px; /* Adjust image height as needed */
+}
+
+.carousel-track .big {
+    margin: 0 10px;
+    width: auto;
+    height: 200px; /* Adjust image height as needed */
+}
+
+@keyframes scroll-left {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
