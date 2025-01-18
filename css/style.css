@@ -526,7 +526,7 @@
 .carousel-track img {
     margin: 0 10px;
     width: auto;
-    height: 150px; /* Adjust image height as needed */
+    height: 200px; /* Adjust image height as needed */
 }
 
 .carousel-track .big {
@@ -542,4 +542,8 @@
     100% {
         transform: translateX(-100%);
     }
+}
+
+.client-cards .card-body {
+    margin-top: -60px;
 }
