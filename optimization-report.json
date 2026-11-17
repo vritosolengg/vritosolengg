@@ -1,0 +1,162 @@
+{
+  "original_html_bytes": 22457444,
+  "optimized_html_bytes": 31610,
+  "asset_bytes": 1194837,
+  "total_package_bytes": 1226447,
+  "assets": [
+    {
+      "file": "hero-background-1.webp",
+      "role": "hero background",
+      "original_bytes": 239680,
+      "optimized_bytes": 155556,
+      "original_dimensions": [
+        1213,
+        714
+      ],
+      "optimized_dimensions": [
+        1213,
+        714
+      ]
+    },
+    {
+      "file": "hero-background-2.webp",
+      "role": "hero background",
+      "original_bytes": 293296,
+      "optimized_bytes": 182142,
+      "original_dimensions": [
+        1264,
+        712
+      ],
+      "optimized_dimensions": [
+        1264,
+        712
+      ]
+    },
+    {
+      "file": "vritosol-logo.webp",
+      "role": "logo",
+      "original_bytes": 73735,
+      "optimized_bytes": 20066,
+      "original_dimensions": [
+        862,
+        192
+      ],
+      "optimized_dimensions": [
+        862,
+        192
+      ]
+    },
+    {
+      "file": "product-1.webp",
+      "role": "product image",
+      "original_bytes": 2053812,
+      "optimized_bytes": 135454,
+      "original_dimensions": [
+        1137,
+        1383
+      ],
+      "optimized_dimensions": [
+        1137,
+        1383
+      ]
+    },
+    {
+      "file": "product-2.webp",
+      "role": "product image",
+      "original_bytes": 1839526,
+      "optimized_bytes": 53904,
+      "original_dimensions": [
+        1162,
+        1354
+      ],
+      "optimized_dimensions": [
+        1162,
+        1354
+      ]
+    },
+    {
+      "file": "product-3.webp",
+      "role": "product image",
+      "original_bytes": 2073569,
+      "optimized_bytes": 111206,
+      "original_dimensions": [
+        1412,
+        1114
+      ],
+      "optimized_dimensions": [
+        1412,
+        1114
+      ]
+    },
+    {
+      "file": "product-4.webp",
+      "role": "product image",
+      "original_bytes": 2016892,
+      "optimized_bytes": 95648,
+      "original_dimensions": [
+        1024,
+        1536
+      ],
+      "optimized_dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "product-5.webp",
+      "role": "product image",
+      "original_bytes": 2019728,
+      "optimized_bytes": 110060,
+      "original_dimensions": [
+        1306,
+        1204
+      ],
+      "optimized_dimensions": [
+        1306,
+        1204
+      ]
+    },
+    {
+      "file": "product-6.webp",
+      "role": "product image",
+      "original_bytes": 1686686,
+      "optimized_bytes": 139624,
+      "original_dimensions": [
+        1024,
+        1536
+      ],
+      "optimized_dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "product-7.webp",
+      "role": "product image",
+      "original_bytes": 1653138,
+      "optimized_bytes": 53222,
+      "original_dimensions": [
+        1024,
+        1536
+      ],
+      "optimized_dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "product-8.webp",
+      "role": "product image",
+      "original_bytes": 2095076,
+      "optimized_bytes": 134680,
+      "original_dimensions": [
+        1024,
+        1536
+      ],
+      "optimized_dimensions": [
+        1024,
+        1536
+      ]
+    }
+  ]
+}
